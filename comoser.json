@@ -1,0 +1,11 @@
+{
+  "name": "zkod/yii2-social-auth",
+  "description": "Authorization on the site through social networks",
+  "type": "library",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "HelloWorld\\": "src/"
+    }
+  }
+}
